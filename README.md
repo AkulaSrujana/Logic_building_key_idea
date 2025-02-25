@@ -1,7 +1,7 @@
 ***Building logical sense to solve coding challenges involves understanding both the underlying concepts and how to apply them in a structured and systematic way. The goal is to break down the problem into smaller, manageable pieces and use the right tools and techniques to solve them efficiently.
 Here’s a detailed guide on the key concepts you need to know to build logical sense and approach coding challenges in Python or any other language***
 
-————————————————————————————————————————————————————————————————————————————————-----------------------------------------------------------------------------------------------------------------------------------------------
+————————————————————————————————————————————————————————————————————————————————
 1. <h3><u>Understanding the Problem</u></h3>
 Before diving into coding, it’s important to thoroughly understand the problem. This involves:
 * Reading the problem statement carefully: Identify the input and output requirements. What data types are involved? Are there any constraints (e.g., time complexity limits)?
@@ -87,4 +87,4 @@ Building logical sense in solving coding challenges involves:
 * Analyzing and optimizing your solutions based on constraints.
 * Practicing regularly to improve your speed and problem-solving skills.
 By mastering these concepts and continuously practicing, you’ll develop a deeper logical sense for solving coding challenges in Python!
-———————————————————————————————————————————————————————————————————————————————————————————————————————————-------------------------------------------------------------------------------------------------------------------
+———————————————————————————————————————————————————————————————————————————————————————————————————————————
