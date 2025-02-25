@@ -61,7 +61,7 @@ When solving a coding challenge, develop a step-by-step approach:
 4. Test and debug: Always test with different edge cases. Python provides useful error messages, so use that feedback to fix issues.
 5. Optimize: After getting the solution working, think about optimizing it for time and space complexity.
 
-5. <h3><u>Practice and Problem Solving Platforms</u></h3>
+55. <h3><u>Practice and Problem Solving Platforms</u></h3>
 To build your logical sense, practice is key:
 Many online platforms offer coding challenges for free, try to solve those problems from easy to difficult based levels and increase the pace of solving gradually.
 
