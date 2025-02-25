@@ -10,13 +10,14 @@ Tips:
 * Write down sample inputs and outputs.
 * Try to explain the problem to someone else or to yourself (this can help you uncover hidden aspects of the problem).
 
-2. Breaking Down the Problem (Decomposition)
+2. <h3><u>Breaking Down the Problem (Decomposition)</u></h3
 Once you understand the problem, break it down into smaller components:
 * Identify sub-tasks: These could be smaller problems within the larger one, like sorting data, finding the maximum or minimum, or filtering specific values.
 * Use pseudocode: Write out a high-level outline of the steps your algorithm will take, without worrying about syntax at first.
 * Think in terms of functions: Identify reusable tasks and create functions to keep the code modular and easier to debug.
 
-3. Core Python Concepts
+3. <h3><u>Core Python Concepts</u></h3>
+  
 1. Data Structures
 Understanding the basic data structures is crucial to solving problems effectively. You need to know how to use the following:
 * Lists: Used for ordered collections of items. Lists are mutable and great for problems that involve sequences, searching, and sorting.
@@ -24,6 +25,7 @@ Understanding the basic data structures is crucial to solving problems effective
 * Sets: Unordered collections with no duplicate elements. These are helpful for membership tests and eliminating duplicates.
 * Dictionaries: Key-value pairs that are great for looking up data quickly.
 Knowing how to manipulate these structures, and when to use each one, is crucial to improving the performance of your solutions.
+
 2. Algorithms and Techniques
 Once you’re comfortable with data structures, you’ll need to understand several key algorithms:
 * Sorting algorithms: Common ones include Bubble Sort, Merge Sort, Quick Sort, and Insertion Sort. Understanding how they work can help you solve problems that involve ordered data.
@@ -33,6 +35,7 @@ Once you’re comfortable with data structures, you’ll need to understand seve
 * Greedy algorithms: Make locally optimal choices with the hope of finding a global optimum. These are useful for optimization problems, such as coin change or interval scheduling.
 * Backtracking: Helps in solving problems where you need to explore multiple solutions (e.g., solving a Sudoku puzzle, finding combinations).
 * Graph algorithms: If you're working with graphs, algorithms like Depth First Search (DFS) and Breadth First Search (BFS) are crucial for exploring nodes.
+
 3. Big-O Notation (Time Complexity)
 Understand how to analyze the time complexity of your solution using Big-O notation. This helps in determining whether your solution will scale for large inputs:
 * O(1): Constant time (best case).
@@ -41,19 +44,21 @@ Understand how to analyze the time complexity of your solution using Big-O notat
 * O(n^2): Quadratic time (typical for nested loops or bubble sort).
 * O(n log n): Common in more efficient sorting algorithms like merge sort or quicksort.
 A key part of the challenge is identifying the constraints of the problem and adjusting your solution accordingly to meet time limits.
+
 4. String Manipulation
 Many coding challenges involve working with strings, so it's important to be comfortable with:
 * String slicing and indexing.
 * Checking for substrings and pattern matching.
 * Using Python’s join(), split(), replace(), and strip() methods.
 * Regular expressions for advanced string pattern matching.
+
 5. Conditionals, Loops, and Logic
 A lot of coding challenges rely on basic flow control:
 * Conditionals (if/else): These help with decision-making (e.g., checking if a number is prime).
 * Loops (for/while): Iterate over sequences or repeat tasks.
 * Logical Operators (and, or, not): Combine multiple conditions to create complex logic.
 
-4. Developing a Problem-Solving Strategy
+4. <h3><u>Developing a Problem-Solving Strategy</u></h3>
 When solving a coding challenge, develop a step-by-step approach:
 1. Understand the problem: Read the statement and constraints.
 2. Plan the solution: Think of how you can break the problem into smaller tasks, which algorithms to use, and whether you need specific data structures.
@@ -61,14 +66,14 @@ When solving a coding challenge, develop a step-by-step approach:
 4. Test and debug: Always test with different edge cases. Python provides useful error messages, so use that feedback to fix issues.
 5. Optimize: After getting the solution working, think about optimizing it for time and space complexity.
 
-5. Practice and Problem Solving Platforms
+5. <h3><u>Practice and Problem Solving Platforms</u></h3>
 To build your logical sense, practice is key:
 Many online platforms offer coding challenges for free, try to solve those problems from easy to difficult based levels and increase the pace of solving gradually.
 
-6. Review Solutions and Learn from Mistakes
+6. <h3><u>Review Solutions and Learn from Mistakes</u></h3>
 After solving problems, review solutions provided by others. Try to learn new approaches and optimize your solutions. It’s a great way to see how others approach the same problem and improve your own techniques.
 
-7. Coding Style and Readability
+7. <h3><u>Coding Style and Readability</u></h3>
 Good coding practices make your solutions more understandable and maintainable:
 * Comment your code: Use comments to explain your logic, especially when it's complex.
 * Follow Python conventions: Use PEP 8 for consistent formatting.
